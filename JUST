@@ -64,7 +64,7 @@ G2L["6stroke"]["Thickness"] = 1;
 G2L["6stroke"]["Transparency"] = 0.15;
 
 G2L["6scale"] = Instance.new("UIScale", G2L["6"]);
-G2L["6scale"]["Scale"] = 0.65;
+G2L["6scale"]["Scale"] = 0.55;
 
 
 -- StarterGui.flygui.main.title
